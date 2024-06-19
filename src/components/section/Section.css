@@ -1,0 +1,5 @@
+section > div {
+    background: #efefef;
+    padding: 11rem;
+    border-right: solid 1px #aaa;
+}

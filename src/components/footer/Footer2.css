@@ -1,0 +1,8 @@
+.footer2 {
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.7rem;
+    color: #dfdfdf;
+    background: #0a0a0a;
+    font-size: .9rem;
+}

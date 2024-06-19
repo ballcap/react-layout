@@ -1,0 +1,14 @@
+header {
+    padding: 3rem 5rem;
+    background: #525252;
+    color: #dcdcdc;
+}
+
+header > div { margin: 0 10px; }
+
+header img { max-width: 100%; }
+
+@media only screen and (max-width: 600px) {
+    header { padding: 1rem; }
+    header > div { margin: 10px; }
+}
